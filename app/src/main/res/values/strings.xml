@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Agenda de Contatos</string>
 
-    <string name="mae">Contato</string>
+    <string name="contato">Contato</string>
     <string name="gerenciar_contatos">Gerenciar Contatos</string>
     <string name="dialog_excluir_contato">Deseja realmente excluir o contato?</string>
 
