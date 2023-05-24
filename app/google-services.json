@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775888483251",
+    "project_id": "agenda-de-contatos-1ac53",
+    "storage_bucket": "agenda-de-contatos-1ac53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775888483251:android:11f9a3f519872e9fbe11c6",
+        "android_client_info": {
+          "package_name": "br.univali.contatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775888483251-6hij2e18bjfpp3nsha58am8lj69rvofr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY4pNqCTS3LHihKMeuExHVALfNlo8HPLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775888483251-6hij2e18bjfpp3nsha58am8lj69rvofr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Agenda de Contatos</string>
+
+    <string name="mae">Contato</string>
+    <string name="gerenciar_contatos">Gerenciar Contatos</string>
+    <string name="dialog_excluir_contato">Deseja realmente excluir o contato?</string>
+
+    <string name="listar">Listar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="salvar">Salvar</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+    <string name="nome">Nome*</string>
+    <string name="telefone_celular">Telefone celular*</string>
+    <string name="selecione_o_tipo">Selecione o tipo de celular*</string>
+
+</resources>
